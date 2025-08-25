@@ -1,22 +1,22 @@
 const giftList = [
     {
         'name': '',
-        'image': './assets/img/gift/next_lucky.jpg',
+        'image': './assets/img/gift/voucher.png',
         'percent': 10,
     },
     {
         'name': '',
-        'image': './assets/img/gift/next_lucky.jpg',
+        'image': './assets/img/gift/voucher.png',
         'percent': 10,
     },
     {
         'name': '',
-        'image': './assets/img/gift/next_lucky.jpg',
+        'image': './assets/img/gift/voucher.png',
         'percent': 10,
     },
     {
         'name': '',
-        'image': './assets/img/gift/next_lucky.jpg',
+        'image': './assets/img/gift/voucher.png',
         'percent': 10,
     },
     {
